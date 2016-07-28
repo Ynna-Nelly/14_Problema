@@ -1,0 +1,212 @@
+*{
+	font-family:Arial;
+}
+
+.mt{
+	color: grey;
+	margin: 35px;
+}
+
+.cuadrob{
+	width: 200px;
+	margin: 30px;
+	padding: 5px;
+	border: 2px solid grey;
+}
+
+#buscar{
+	padding: 5px;
+	color: grey;
+}
+
+.lupa{
+	margin-left: -65px;
+}
+
+#banner{
+	width: 1439px;
+	height: auto;
+}
+
+#gris{
+	font-size: 50px;
+	color: white;
+	margin-left: 180px;
+	margin-top: 30px;
+}
+
+#cb{
+	margin-left: 180px;
+	width: 400px;
+}
+
+.icono{
+	width: 100px;
+	height: 100px;
+	margin-top: 350px;
+}
+
+#all{
+	border: 2px solid #9FF781;
+	color: #9FF781;
+	margin-left: 180px;
+	margin-top: 20px;
+	padding: 5px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+#white{
+	color: white;
+	margin-top: 30px;
+}
+
+.ratting{
+	margin-left: 180px;
+	margin-top: 15px;
+	color: white;
+}
+
+#icono{
+	background-color: #FACC2E;
+	padding: 15px;
+	border-radius: 10px;
+	text-align: center;
+	width: 200px;
+}
+
+.espacio{
+	margin-right: 10px;
+}
+
+#icono1{
+	background-color: #FE9A2E;
+	padding: 15px;
+	border-radius: 10px;
+	text-align: center;
+	width: 200px;
+}
+
+#fondoy{
+	background-color:#FACC2E; 
+	margin-top: -4px;
+	height: 280px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.imagen{
+	width: 180px;
+	height: 240px;
+	margin-top: 20px;
+}
+
+#left{
+	margin-left: 50px;
+	margin-right: 20px;
+	width: 180px;
+	height: 240px;
+	margin-top: 20px;
+}
+
+#right{
+	margin-left: 20px;
+	margin-right: -40px;
+	width: 180px;
+	height: 240px;
+	margin-top: 20px;
+} 
+
+.left2{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+#ratting2{
+	margin-left: 100px;
+	margin-top: 20px;
+	color: white;
+}
+
+#icono2{
+	background-color: #B43104;
+	padding: 20px;
+	border-radius: 10px;
+	text-align: center;
+	width: 200px;
+	height: 60px;
+	color: white;
+}
+
+.left3{
+	margin-bottom: 20px;
+	margin-left: 38px;
+}
+
+#left4{
+	margin-left: 20px;
+}
+
+.left6{
+	margin-left: 40px;
+}
+
+.cafe{
+	color:#C79355;
+	font-size: 15px;
+}
+
+#pr{
+	padding-right: 60px;
+}
+
+.bold{
+	font-weight: bold;
+	font-size: 12px;
+}
+.texto{
+	font-size: 12px;	
+}
+
+.length-hr{
+	margin-left: 40px;
+	width: 550px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#video{
+	width: 1453px;
+	height: 300px; 
+	margin-left: -14px;
+}
+
+#four{
+	background-color: #F2F2F2;
+	width: 1453px;
+	margin-left: -20px;
+}
+
+.fm{
+	margin-left: 50px;
+	color: #A4A4A4;
+	margin-bottom: 20px;
+	font-size: 12px;
+}
+
+.top{
+	margin-top: 20px;
+}
+
+#pad{
+	padding-left: 90px;
+	margin-bottom: 30px;
+}
+
+#ml{
+	padding-left: 20px;
+}
+
+#mr{
+	padding-right: 20px;
+}
